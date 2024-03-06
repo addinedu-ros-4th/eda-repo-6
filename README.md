@@ -39,6 +39,20 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 서울 아파트 가격 고점을 기록했던 2021년에 특정 요인이 부동산에 미치는 영향을 분석하였다.  
 <br/>
 <br/>
+
+### 우리가 흔히들 알고 있는 집값에 영향을 미치는 요소들을 구별로 데이터 시각화를 해보겠다.
+
+집값에서 하위권인 노원구가 초등학교 수가 가장 많았다.
+![image](https://github.com/YoonHJ97/merge_project/assets/162243554/ab34a551-a15e-4ab9-a22b-f5761b5dbce6)
+
+그 밖에 다른 요소들도 데이터 시각화 해보았다.
+![image](https://github.com/YoonHJ97/merge_project/assets/162243554/c333f99d-be60-4e74-898a-7487115bda43)
+
+우리가 알고있던 요소들이 생각보다 집값에 영향을 미치지 않은 것 같다.
+더 정확히 알아보기 위해 수집한 데이터들과 아파트 매매가격이 어떤 연관이 있는지 상관계수를 구해보았다.
+
+<code>trade = pop_reg.corr().round(2)['거래금액(만원)']</code>
+
 <br/>
 <img src = "https://github.com/DJY0404/remote_project/assets/55430286/e0fa2846-c85a-4ee1-9954-9ad92898ff0a">
 pandas 라이브러리에서 사용되는 메서드인 corr()을 통해 아파트 매매가격과 상관관계가 높은 컬럼을 찾을 수 있다.
