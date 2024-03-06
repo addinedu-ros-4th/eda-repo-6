@@ -25,8 +25,9 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 ---
 ## 0. 결론
 분석한 결과, 종로구와 노원구가 특이한 양상을 보이는 것을 확인했다.
-![image](https://github.com/addinedu-ros-4th/eda-repo-6/assets/55430286/fd1bf3a9-9630-4123-8df5-9ad12636a7ba)
-
+<br/>
+<img src = "https://github.com/addinedu-ros-4th/eda-repo-6/assets/55430286/fd1bf3a9-9630-4123-8df5-9ad12636a7ba" width = "45%">
+<img src = "https://github.com/DJY0404/remote_project/assets/55430286/3133534e-6998-497c-906b-0e0b89d5b903" width = "45%">
 
 
 ---
