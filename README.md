@@ -38,7 +38,8 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 <br/>
 서울 아파트 가격 고점을 기록했던 2021년에 특정 요인이 부동산에 미치는 영향을 분석하였다.  
 <br/>
-![image](https://github.com/addinedu-ros-4th/eda-repo-6/assets/156267935/1ac49734-6209-461f-a3b6-55ab09fa2802)
+#
+![p11](https://github.com/yjs126/local_project/assets/156267935/0f9de31e-1369-42cd-a065-f98f11d2dd58)
 <br/>
 
 <br/>
