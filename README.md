@@ -106,6 +106,11 @@ pandas 라이브러리에서 사용되는 메서드인 corr()을 통해 아파�
 <br/>
 <br/>
 <br/>
-
+1) 16~21년 매매가격지수 변동률과 일자리수 증가<br/>
+그래프는 **matplot** 라이브러리를 이용하여 **scatter**형식의 그래프와 추세선을 그려서 나타내었다.<br/>
+<img src = "https://github.com/addinedu-ros-4th/eda-repo-6/assets/156267892/c6d2ac87-15c8-415b-9e72-ac6953d5681d"><br/>
+일자리수 증가율이 클수록, 매매가격지수 상승율이 비례한다고 하기에는 관계성이 부족한것 같다.<br/>
+그 대신, 노원구와 종로구는 다른구들에 비해 추세선에서 많이 벗어나서 특이한 성향을 보이는 것 같다.<br/>
+<br/>
 ---
 ## <img src = "https://github.com/addinedu-ros-4th/eda-repo-6/assets/55430286/e2d767e5-d544-45f1-ba1e-dee982b7b2fd" width = "5%">0. 사용한 데이터
