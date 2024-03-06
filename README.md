@@ -38,7 +38,7 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 <br/>
 서울 아파트 가격 고점을 기록했던 2021년에 특정 요인이 부동산에 미치는 영향을 분석하였다.  
 <br/>
-![p11](https://github.com/addinedu-ros-4th/eda-repo-6/assets/156267935/2987a492-4bde-4c24-b3ba-31e8dcb668f7)
+![image](https://github.com/addinedu-ros-4th/eda-repo-6/assets/156267935/2987a492-4bde-4c24-b3ba-31e8dcb668f7)
 <br/>
 2021년 서울시 자치구별 아파트의 자가점유율을 조사하여 아파트 가격과의 관계를 분석했다.
 집값이 하위권에 분포했던 도봉,노원,구로 등이 자가점유율은 상위권에 분포
