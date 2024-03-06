@@ -43,11 +43,13 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 ### 우리가 흔히들 알고 있는 집값에 영향을 미치는 요소들을 구별로 데이터 시각화를 해보겠다.
 
 집값에서 하위권인 노원구가 초등학교 수가 가장 많았다.
-![image_720](https://github.com/YoonHJ97/merge_project/assets/162243554/64467807-f69d-488d-936a-1cb8c1495da7)
+
+![image_480](https://github.com/YoonHJ97/merge_project/assets/162243554/3e924fea-7632-49d9-a14c-b78c3387db81)
 
 
 그 밖에 다른 요소들도 데이터 시각화 해보았다.
-![image_720](https://github.com/YoonHJ97/merge_project/assets/162243554/ba01d3f1-85a1-4b53-b55d-4c0b23fcc776)
+
+![image_720](https://github.com/YoonHJ97/merge_project/assets/162243554/06bfd30b-5bdb-44f0-a093-1777ef94b42a)
 
 우리가 알고있던 요소들이 생각보다 집값에 영향을 미치지 않은 것 같다.
 더 정확히 알아보기 위해 수집한 데이터들과 아파트 매매가격이 어떤 연관이 있는지 상관계수를 구해보았다.
@@ -55,12 +57,12 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 <code>trade = pop_reg.corr().round(2)['거래금액(만원)']</code>
 
 <br/>
-<img src = "(https://github.com/YoonHJ97/merge_project/assets/162243554/3e924fea-7632-49d9-a14c-b78c3387db81)">
+<img src = "https://github.com/YoonHJ97/merge_project/assets/162243554/64467807-f69d-488d-936a-1cb8c1495da7">
 pandas 라이브러리에서 사용되는 메서드인 corr()을 통해 아파트 매매가격과 상관관계가 높은 컬럼을 찾을 수 있다.
 <br/>
 <br/>
 <br/>
-<img src = "!(https://github.com/YoonHJ97/merge_project/assets/162243554/06bfd30b-5bdb-44f0-a093-1777ef94b42a)">
+<img src = "https://github.com/YoonHJ97/merge_project/assets/162243554/ba01d3f1-85a1-4b53-b55d-4c0b23fcc776">
 매매자수 변동 그래프를 살펴보면 노원구가 가장 많이 변화했고, 종로구가 가장 적게 변화한 걸 알 수 있다.
 #그리고 전체적으로 18년 8월, 20년 6월을 기점으로 급등한 걸 알 수 있다.
 <br/>
