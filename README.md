@@ -58,6 +58,7 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
 
 <br/>
 <img src = "https://github.com/YoonHJ97/merge_project/assets/162243554/64467807-f69d-488d-936a-1cb8c1495da7">
+
 pandas 라이브러리에서 사용되는 메서드인 corr()을 통해 아파트 매매가격과 상관관계가 높은 컬럼을 찾을 수 있다.
 <br/>
 <br/>
