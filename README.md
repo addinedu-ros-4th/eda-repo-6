@@ -19,12 +19,12 @@ EDA 프로젝트 6조 저장소. 부동산 데이터 분석
   * 윤현준 : 데이터 수집, 시각화/ 데이터 별 상관관계 분석
   * 장종찬 :
 ---
-## <img src = "https://github.com/addinedu-ros-4th/eda-repo-6/assets/55430286/92c8ce66-59d5-49a7-8973-6a473ce3950f" width = "5%">0. 사용 기술
+## <img src = "https://github.com/addinedu-ros-4th/eda-repo-6/assets/55430286/92c8ce66-59d5-49a7-8973-6a473ce3950f" width = "5%">0.3 사용 기술
 <img src = "https://github.com/DJY0404/remote_project/assets/55430286/5f0ceb64-a144-4b76-a132-e2a2b8fb4275">
 
 
 ---
-## 0. 결론
+## 0.4 결론
 분석한 결과, 종로구와 노원구가 특이한 양상을 보이는 것을 확인했다.
 <br/>
 <img src = "https://github.com/addinedu-ros-4th/eda-repo-6/assets/55430286/fd1bf3a9-9630-4123-8df5-9ad12636a7ba" width = "45%">
